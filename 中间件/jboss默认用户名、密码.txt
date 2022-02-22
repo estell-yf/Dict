@@ -1,0 +1,5 @@
+admin:admin
+admin:jboss
+admin:password1! 
+jboss:admin 
+admin:ezoffice

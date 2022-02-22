@@ -1,0 +1,29 @@
+H3C ER3100
+admin	adminer3100
+
+H3C ER3200
+admin	adminer3200
+
+H3C ER3260
+admin	adminer3260
+
+H3C WA系列无线局域网接入点设备Web网管
+admin h3capadmin
+
+H3C常用账号密码
+admin	adminer
+admin	admin
+admin	h3capadmin
+h3c	h3c 
+
+H3C S5120-SI
+test 123
+
+H3C SecPath系列
+admin admin
+
+H3C iMC系列
+admin admin
+
+H3C智能管理中心
+admin admin
